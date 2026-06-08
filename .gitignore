@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Chroma / vector store
+.chroma/
+chroma_db/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code local session/settings
+.claude/
